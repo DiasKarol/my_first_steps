@@ -1,0 +1,4 @@
+O que é “Hello World” na programação?
+O “Olá, mundo”, em português, é um pequeno código que pode ser desenvolvido em diferentes linguagens de programação. Seu objetivo é facilitar o conhecimento da estrutura básica e o funcionamento da linguagem. Por isso, pode ser desenvolvido em várias linguagens como C++ Hello World , PHP Hello World, HTML Hello World, C Hello World e em muitas outras.
+
+Ele também serve para verificar se um ambiente está preparado adequadamente, pois a instalação de algumas linguagens de programação em um computador pode requerer outras instalações e configurações. Assim, o Hello World também é uma forma de verificar se o ambiente está configurado de maneira adequada. Portanto, se o programa funcionar, é sinal que está tudo certo com a preparação da máquina.
