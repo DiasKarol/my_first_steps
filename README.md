@@ -1,4 +1,4 @@
-#Criando o primeiro repositório
+# Criando o primeiro repositório
 
 Após criar o repositório no github, utilize o comando abaixo para clonar e conectar o repositório em seu computador.
 > git clone https://github.com/DiasKarol/my_first_steps.git
